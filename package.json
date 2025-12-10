@@ -1,0 +1,37 @@
+{
+  "name": "vapi-call-button",
+  "version": "1.0.0",
+  "description": "React component for AI voice calls via browser using VAPI",
+  "main": "VapiCallButton.tsx",
+  "keywords": [
+    "vapi",
+    "voice",
+    "ai",
+    "call",
+    "react",
+    "typescript",
+    "assistant",
+    "voice-assistant",
+    "ai-voice",
+    "browser-call"
+  ],
+  "author": "Roberto Rabacchi Santagata <info@ecservicesrl.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecservicesrl/vapi-call-button.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ecservicesrl/vapi-call-button/issues"
+  },
+  "homepage": "https://github.com/ecservicesrl/vapi-call-button#readme",
+  "peerDependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "lucide-react": "^0.400.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
